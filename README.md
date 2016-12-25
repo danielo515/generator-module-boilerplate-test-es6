@@ -1,5 +1,7 @@
 # generator-module-boilerplate-test-es6
 
+This is just a test to demonstrate that my changes works.
+
 > Testing the generator after adding es6 features to tests with jest
 
 ![Node](https://img.shields.io/node/v/generator-module-boilerplate-test-es6.svg?style=flat-square)
