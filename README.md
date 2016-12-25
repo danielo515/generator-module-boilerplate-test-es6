@@ -1,5 +1,7 @@
 # generator-module-boilerplate-test-es6
 
+This branch has been generated from scratch using the coverall-badge branch
+
 > Adding coverall badge
 
 ![Node](https://img.shields.io/node/v/generator-module-boilerplate-test-es6.svg?style=flat-square)
