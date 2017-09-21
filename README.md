@@ -1,5 +1,7 @@
 # generator-module-boilerplate-test-es6
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/danielo515/generator-module-boilerplate-test-es6.svg)](https://greenkeeper.io/)
+
 This is just a test to demonstrate that my changes works.
 
 > Testing the generator after adding es6 features to tests with jest
